@@ -1,4 +1,4 @@
-Limkedin accounts
+Linkedin accounts
 
 Yaqubzadə Yusif - https://www.linkedin.com/in/yusif-yaqubzadə-b8a879252/
 
