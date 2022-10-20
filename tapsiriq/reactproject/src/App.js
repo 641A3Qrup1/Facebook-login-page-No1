@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from'./logo.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
         <main>
        <div class="row">
            <div class="col-logo">
-            <img src="image/fb_logo.svg" alt="logo"/>
+           <img src={logo} alt="logo"/>
             <h2>Connect with friends and the world around you on Facebook.</h2>
            </div>
            <div class="col-form">
